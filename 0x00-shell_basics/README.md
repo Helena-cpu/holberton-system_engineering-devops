@@ -4,3 +4,4 @@ __script 3-listfiles: _lists files in current directory in long format_
 __script 4-listmorefiles: _show files and directories in long list_
 __script 5-listfilesdigitonly: _show files, hidden files and directories with UID and GID in a numerically long list_
 __script 6-firstdirectory: _create a directory in / tmp /_
+__script 7-movethatfile: _move a betty file from tmp / to tmp / holberton_
