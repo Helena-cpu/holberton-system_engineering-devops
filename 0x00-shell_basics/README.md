@@ -7,5 +7,6 @@ __script 6-firstdirectory: _create a directory in / tmp /_
 __script 7-movethatfile: _move a betty file from tmp / to tmp / holberton_
 __script 8-firstdelete: _delete the betty file that is in tmp / holberton_
 __script 9-firstdirdeletion: _remove holberton from tmp_
+__script 10-back: _change to a previous directory_
 
 
